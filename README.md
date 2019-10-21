@@ -17,7 +17,9 @@ attrition and hence reduce the employees attrition based on results
 
 ## Predicting dog breed using Deep learning techniques from trained dataset.
 
-[Link to DogApp Project](https://github.com/mandavaravi1/MachineLearning/tree/master/DogApp_Project3)
+[Link to DogApp Project](https://github.com/mandavaravi1/DogApp_Project3)
+
+In this project, I explored on CNN and learnt how to build a pipeline that can be used within a web to process real-world, user-supplied images. Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed. The goal to understand how image classification can be implemented with attained dataset using deep learning techniques.
 
 ## Finding Donors for Charity
 
