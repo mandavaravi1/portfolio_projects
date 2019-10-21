@@ -19,12 +19,12 @@ attrition and hence reduce the employees attrition based on results
 
 [Link to DogApp Project](https://github.com/mandavaravi1/MachineLearning/tree/master/DogApp_Project3)
 
-## Predicting survival of passengers on the Titanic dataset
+## Finding Donors for Charity
 
-[Link to Titanic Project]
+[Link to Donors Project] ()
 
-In this project I investigated a dataset containing information about Titanic passengers by using NumPy and Pandas, which are two popular Python packages used for manipulating datasets.
-The goal of this project was to get acquainted with said tools, learn about the different data structures (NumPy Arrays, Series and DataFrames) they offer,and practice the key steps on the whole data analysis process.
+In this project I explored the census dataset to identify the people who are likely to donate for charity by using NumPy and Pandas, which are two popular Python packages used for manipulating datasets and applying preprocessing techniques.
+The goal of this project is to apply severeal Supervised learning algorithms to the processed dataset and identify the best one that suits the reqirement.
 
 
 ## Predicting Boston Housing Prices using Linear Regression
