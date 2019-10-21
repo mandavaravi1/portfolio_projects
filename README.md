@@ -21,7 +21,7 @@ attrition and hence reduce the employees attrition based on results
 
 ## Finding Donors for Charity
 
-[Link to Donors Project] ()
+[Link to Donors Project](https://github.com/mandavaravi1/finding_donors)
 
 In this project I explored the census dataset to identify the people who are likely to donate for charity by using NumPy and Pandas, which are two popular Python packages used for manipulating datasets and applying preprocessing techniques.
 The goal of this project is to apply severeal Supervised learning algorithms to the processed dataset and identify the best one that suits the reqirement.
