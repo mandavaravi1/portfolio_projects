@@ -2,6 +2,12 @@ Selected Projects and Outcomes
 ==============================
 Link to some of my work in DataScience &amp; Machine Learning
 
+## Built a model to determine whether a customer is placing a fraudulent insurance claim based on trained dataset.
+
+[Link to fraudDetection Project](https://github.com/mandavaravi1/fraudDetection)
+
+In this project, I have applied data wrangling , preprocessing , encoding and sampling techniques. The data is plotted using matplot lib to understand the pattern and identify key features to predict the fraud claim. I used Semi-Supverised ML technique to build this model. The goal to build a classification methodology to determine whether a customer is placing a fraudulent insurance claim.
+
 [Link to Predicting Employee Attrition Rate](https://github.com/mandavaravi1/ML/tree/master/Report)
 
 Employee attrition is a big problem many companies are facing nowadays. On boarding a
